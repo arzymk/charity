@@ -1,4 +1,4 @@
-# atelier
+# charity
 
 > Nuxt.js project
 
